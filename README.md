@@ -1,6 +1,5 @@
-# POOP2_2022
-Práctica correspondiente a sintaxis de lenguaje con el entorno Java
-
+//# POOP2_2022
+//Práctica correspondiente a sintaxis de lenguaje con el entorno Java
 
 package POOP2;
 public class POOP2 {
